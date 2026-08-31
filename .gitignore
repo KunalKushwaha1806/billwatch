@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# SQLite
+*.db
+
+# Node
+node_modules/
+frontend/dist/
+
+# Tests & Coverage
+.pytest_cache/
+.coverage
+coverage/
+htmlcov/
