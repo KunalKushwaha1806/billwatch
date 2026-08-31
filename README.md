@@ -1,4 +1,4 @@
-# ⚡ BillWatch — AI Revenue Recovery Agent
+# ⚡ BillWatch : AI Revenue Recovery Agent
 
 > **Autonomous, auditable, policy-bounded revenue recovery for modern fintech and e-commerce.**
 
